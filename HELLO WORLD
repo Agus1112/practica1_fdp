@@ -1,0 +1,6 @@
+/*Hello World program*/
+#include <stidio.h>
+main ()
+{
+printf ("Hello world");
+}
